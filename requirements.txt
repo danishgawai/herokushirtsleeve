@@ -17,11 +17,11 @@ pluggy==0.13.1
 py==1.8.0
 pycparser==2.19
 pyparsing==2.4.5
-pytesseract==0.3.0
 six==1.13.0
 toml==0.10.0
 tox==3.14.1
 virtualenv==16.7.8
 Werkzeug==0.15.5
 zipp==0.6.0
-tensorflow==2.0
+tensorflow==2.0.1
+pathlib==1.0.1
