@@ -5,10 +5,6 @@ import os
 import glob
 import re
 import numpy as np
-from pathlib import Path
-from PIL import Image
-import pandas as pd
-# Keras
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np 
@@ -16,8 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from keras.applications import vgg16
 from keras.preprocessing import image
-import cv2
-import os                   
+import cv2               
 import joblib
 from pathlib import Path
 from PIL import Image, ImageFile
